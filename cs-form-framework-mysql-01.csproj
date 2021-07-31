@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D1914F79-A786-43F1-B5DB-8889AEE11CF6}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>cs_form_framework_mysql_01</RootNamespace>
-    <AssemblyName>cs-form-framework-mysql-01</AssemblyName>
+    <RootNamespace>cs_form_framework_mysql_00</RootNamespace>
+    <AssemblyName>cs-form-framework-mysql-00</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
