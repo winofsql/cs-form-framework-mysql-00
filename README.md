@@ -1,2 +1,2 @@
-# cs-form-framework-mysql-01
-Form で MySQL をループで読み出す
+# cs-form-framework-mysql-00
+Form で MySQL を読み出す
